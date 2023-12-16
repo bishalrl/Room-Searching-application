@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200592807040",
+    "project_id": "room-chha-cd668",
+    "storage_bucket": "room-chha-cd668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200592807040:android:46d171a1812806fadcc265",
+        "android_client_info": {
+          "package_name": "com.example.room_chha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200592807040-529vis4snac6qemqebriflsadglctjir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdfWIrHl5u2ilKUH_3zhNGIKj07PtK5AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200592807040-529vis4snac6qemqebriflsadglctjir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
